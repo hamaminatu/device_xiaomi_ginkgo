@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/revengeos_ginkgo.mk
+    $(LOCAL_DIR)/zenx_ginkgo.mk
